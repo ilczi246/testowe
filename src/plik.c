@@ -1,1 +1,1 @@
-#define BOOL 1
+#define BOOL 12
